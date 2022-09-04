@@ -83,7 +83,7 @@
   <ItemGroup>
     <PackageReference Include="AutoProperties.Fody" PrivateAssets="all" Version="1.25.0" />
     <PackageReference Include="Community.VisualStudio.Toolkit" Version="15.0.76.309" />
-    <PackageReference Include="DataGridExtensions" Version="2.5.12" />
+    <PackageReference Include="DataGridExtensions" Version="2.5.14" />
     <PackageReference Include="Fody" PrivateAssets="all" Version="6.6.3" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.1.1" PrivateAssets="all" />
     <PackageReference Include="Microsoft.VisualStudio.SDK" ExcludeAssets="runtime" Version="15.0.1" />
