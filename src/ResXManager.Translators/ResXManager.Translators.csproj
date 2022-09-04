@@ -77,9 +77,9 @@
     <PackageReference Include="System.ServiceModel.Primitives" Version="4.9.0" />
     <PackageReference Include="System.ServiceModel.Http" Version="4.9.0" />
     <PackageReference Include="Throttle.Fody" PrivateAssets="all" Version="1.7.0" />
-    <PackageReference Include="TomsToolbox.Wpf" Version="2.7.3" />
-    <PackageReference Include="TomsToolbox.Wpf.Composition.AttributedModel" Version="2.7.3" />
-    <PackageReference Include="TomsToolbox.Wpf.Styles" Version="2.7.3" />
+    <PackageReference Include="TomsToolbox.Wpf" Version="2.8.0" />
+    <PackageReference Include="TomsToolbox.Wpf.Composition.AttributedModel" Version="2.8.0" />
+    <PackageReference Include="TomsToolbox.Wpf.Styles" Version="2.8.0" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
